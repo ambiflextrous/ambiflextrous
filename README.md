@@ -1,4 +1,4 @@
-Hi, my name is Nelson Ferrão. I'm a programmer, derivatives trader and essayist.
+Hi, my name is Nelson Ferrão. I'm a programmer, derivatives trader and writer.
 
 <!--
 **ambiflextrous/ambiflextrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
